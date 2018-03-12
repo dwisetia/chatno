@@ -1,2 +1,0 @@
-# chatno
-android chatting apps
